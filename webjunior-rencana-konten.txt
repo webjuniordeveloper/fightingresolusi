@@ -3,9 +3,11 @@ RENCANA KONTEN WEB JUNIOR PROGRAMER
 - BOOTSTRAP
 * Navbar
 * Footer
-* Header
-* Sidebar
+* Framework CSS
+- STRUCTUR DATA DASAR
 - PHP FRAMEWORK
-  * laravel
+  * lARAVEL
 - JAVASCRIPT
+ *React Js
 - CODEGNITER 3
+- PYTHON
